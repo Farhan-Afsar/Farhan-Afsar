@@ -40,19 +40,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://github-readme-contrib.vercel.app/api?username=Farhan-Afsar" alt="GitHub Contributions" />
-  <br/>
-</div>
-<hr/>
-
-
-
-
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
